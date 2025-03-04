@@ -4,5 +4,4 @@ This repository provides a comprehensive collection of 5G security datasets, inc
 Each attack scenario includes:
 
 - Pcap files: Captured network traffic for in-depth protocol analysis.
-- CSV files: Processed datasets with labeled attack and benign traffic samples.
-- AMF log screenshots: System logs highlighting the impact of each attack.
+- CSV files: Processed datasets with labeled malicious and benign traffic samples.
