@@ -1,0 +1,15 @@
+RequestMessages,SuccessfulResponseMessages,RequestResponseRatio,RegistrationRate,PDURequestRate,RequestIAT,ProcedureCodeNumber,ProcedureCodeRate,label
+0,0,0,0,0,0,0,0,malicious
+0,0,0,0,0,0,0,0,malicious
+0,0,0,0,0,0,0,0,malicious
+0,0,0,0,0,0,0,0,malicious
+0,0,0,0,0,0,0,0,malicious
+0,0,0,0,0,0,0,0,malicious
+0,0,0,0,0,0,0,0,malicious
+2,0,0,2,0,0,10,10,malicious
+0,0,0,0,0,0,0,0,malicious
+0,0,0,0,0,0,0,0,malicious
+0,0,0,0,0,0,0,0,malicious
+0,0,0,0,0,0,0,0,malicious
+0,0,0,0,0,0,0,0,malicious
+0,0,0,0,0,0,0,0,malicious
