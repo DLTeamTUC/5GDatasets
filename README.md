@@ -13,5 +13,5 @@ Title: A Comprehensive 5G Network Dataset for Control and Data Plane Security an
 Authors: Beny Nugraha, Mehrdad Hajizadeh, Tim Niehoff, Abhishek Venkatesh Jnanashree, Trung V. Phan, Dionysia Triantafyllopoulou, Oliver Krause, Martin Mieth, Klaus Moessner, and Thomas Bauschert
 
 Note:
-The CSV files in our datasets are converted using the following tool: [5GPacketParser](https://github.com/yourusername/5GPacketParser).
+The CSV files in our datasets are converted using the following tool: [5GPacketParser](https://github.com/DLTeamTUC/5GPacketParser).
 
