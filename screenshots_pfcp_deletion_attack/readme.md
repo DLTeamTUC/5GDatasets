@@ -1,1 +1,3 @@
-#this is a comment
+In the PFCP Session Deletion DoS scenario, malicious PFCP Session Deletion requests and their corresponding responses were detected on the N4 interface, aligning with expectations. This behavior is illustrated in the screenshot pfcp_session_del_attack_1.png.
+
+To assess the impact of the PFCP Session Deletion DoS attack and generate realistic network traces, 50 benign UEs were actively establishing HTTP connections to popular public websites throughout the scenario. The data plane network trace reveals that as the attack duration increases, there is a noticeable rise in TCP retransmissions and packet losses, leading to a complete disruption of ongoing communications. The screenshot pfcp_session_del_attack_2.png captures an extract of the network trace at the end of the attack, clearly showing TCP retransmissions, which indicate the successful disruption of UE connections to the data network's web servers.
