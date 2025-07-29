@@ -1,4 +1,4 @@
-# 📡 5G Security and Resource Allocation Dataset
+# 5G Security and Resource Allocation Dataset
 
 This repository provides a **comprehensive collection of 5G datasets** designed for analyzing security threats and resource allocation behaviors in next-generation mobile networks. The datasets were generated in controlled testbed and simulation environments, covering a range of **control-plane, data-plane, and radio-layer experiments**.
 
