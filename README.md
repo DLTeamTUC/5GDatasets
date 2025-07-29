@@ -54,8 +54,7 @@ If you use these datasets in your research, please cite this paper.
 
 ## ⚙️ Tools Used
 
-- **5GPacketParser:** Converts `.pcap` captures to structured `.csv` format with labeled traffic flows  
-- **MATLAB 5G Toolbox (SLS):** Generates simulated radio scheduling data for resource allocation analysis  
+- **[5GPacketParser](https://github.com/trungpv92/5GPacketParser/):** Converts `.pcap` captures to structured `.csv` format with labeled traffic flows 
 
 ---
 
