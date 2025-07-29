@@ -46,6 +46,7 @@ These datasets are introduced and discussed in the following publication:
 
 > **Title:** A Comprehensive 5G Network Dataset for Control and Data Plane Security and Resource Allocation Analysis  
 > **Authors:** Beny Nugraha, Mehrdad Hajizadeh, Tim Niehoff, Abhishek Venkatesh Jnanashree, Trung V. Phan, Dionysia Triantafyllopoulou, Oliver Krause, Martin Mieth, Klaus Moessner, and Thomas Bauschert  
+> **Conference:** *2025 IEEE International Conference on Cyber Security and Resilience (CSR)*, Chania, Crete, Greece, August 4–6, 2025.  
 
 If you use these datasets in your research, please cite this paper.
 
